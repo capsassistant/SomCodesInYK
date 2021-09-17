@@ -1,0 +1,14 @@
+Extract the fields "CustomerID" and "CustomerName" from "Sample.txt" file and store them in another file "custInfo"
+Extract "CustomerName", "AccountType" fields and store them in another file called "ActInfo"
+Concatenate the two files "CustInfo" and "ActInfo’ and store the results into another file called "temp1"
+
+
+
+C1000 Anil 100001 SB
+C1001 Vijaya 100002 SB
+C1001 Vijaya 200001 FD
+C1002 Gaythri 100003 SB
+C1000 Anil 200001 FD
+
+
+
