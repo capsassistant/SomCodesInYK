@@ -10,5 +10,16 @@ C1001 Vijaya 200001 FD
 C1002 Gaythri 100003 SB
 C1000 Anil 200001 FD
 
+soln:-------------------------------------------------------------------
+1.  cut -d ' ' -f1,2 sample.txt > custinfo
+    cat custinfo
+    
+C1000 Anil
+C1001 Vijaya
+C1001 Vijaya
+C1002 Gaythri
+C1000 Anil
+
+2.
 
 
